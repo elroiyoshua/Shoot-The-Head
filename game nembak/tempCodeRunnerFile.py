@@ -1,0 +1,2 @@
+
+    if kepala.collidepoint(pos):
